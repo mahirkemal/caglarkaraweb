@@ -14,6 +14,7 @@ return (
         <Contact
           contactEmail={data.contactEmail}
           contactPara={data.contactPara}
+          contactTel={data.contactTel}
           socialLinks={data.social}
         ></Contact>
       </div>

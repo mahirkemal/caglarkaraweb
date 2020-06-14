@@ -3,7 +3,7 @@ import React from 'react';
 const Work = ({projects}) =>{
     return(
         <div className="work_container">
-            <h1>Projects.</h1>
+            <h1>Yaptigim isler</h1>
             <div className="projects_container">
                 {projects.map((project)=>(
                 <div key={project.id} className="project">

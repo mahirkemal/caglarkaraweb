@@ -1,12 +1,14 @@
 import React from 'react';
 import { FaEnvelope, FaLinkedin, FaGithub, FaCodepen } from "react-icons/fa";
 
-const Contact = ({contactEmail, contactPara, socialLinks})=>{
+const Contact = ({contactEmail, contactPara, contactTel, socialLinks})=>{
 
     return (
       <div className="contact_container">
-        <h1>Get in touch.</h1>
+        <h1>Iletisime gecin</h1>
         <p>{contactPara}</p>
+        <br></br>
+        <p>{contactTel}</p>
         <br></br>
         <a className="email_link" href={`mailto:${contactEmail}`}>
           {contactEmail}
