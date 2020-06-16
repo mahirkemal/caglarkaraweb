@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mahirkemal/caglarkaraweb/static/css/main.8b5d00fa.chunk.css",
+    "main.js": "/mahirkemal/caglarkaraweb/static/js/main.431670a5.chunk.js",
+    "main.js.map": "/mahirkemal/caglarkaraweb/static/js/main.431670a5.chunk.js.map",
+    "runtime-main.js": "/mahirkemal/caglarkaraweb/static/js/runtime-main.492c90dc.js",
+    "runtime-main.js.map": "/mahirkemal/caglarkaraweb/static/js/runtime-main.492c90dc.js.map",
+    "static/js/2.304f183f.chunk.js": "/mahirkemal/caglarkaraweb/static/js/2.304f183f.chunk.js",
+    "static/js/2.304f183f.chunk.js.map": "/mahirkemal/caglarkaraweb/static/js/2.304f183f.chunk.js.map",
+    "index.html": "/mahirkemal/caglarkaraweb/index.html",
+    "precache-manifest.86a906e916420541452269bfc11fed5e.js": "/mahirkemal/caglarkaraweb/precache-manifest.86a906e916420541452269bfc11fed5e.js",
+    "service-worker.js": "/mahirkemal/caglarkaraweb/service-worker.js",
+    "static/css/main.8b5d00fa.chunk.css.map": "/mahirkemal/caglarkaraweb/static/css/main.8b5d00fa.chunk.css.map",
+    "static/js/2.304f183f.chunk.js.LICENSE.txt": "/mahirkemal/caglarkaraweb/static/js/2.304f183f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.492c90dc.js",
+    "static/js/2.304f183f.chunk.js",
+    "static/css/main.8b5d00fa.chunk.css",
+    "static/js/main.431670a5.chunk.js"
+  ]
+}
